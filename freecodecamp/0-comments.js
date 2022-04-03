@@ -1,2 +1,0 @@
-// inline comment
-/* multiline comment */
