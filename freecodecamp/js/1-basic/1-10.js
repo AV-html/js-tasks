@@ -1,10 +1,10 @@
-// * ===== 1 - task ===== * //
+// * ===== 1 - task (comment) ===== * //
 
 // inline comment
 /* multiline comment */
 
 
-// * ===== 2 - task ===== * //
+// * ===== 2 - task (variables) ===== * //
 var myName;
 
 

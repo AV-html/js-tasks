@@ -12,7 +12,7 @@ console.log(FCC, fact); // Change this line
 
 
 
-// * ===== 12 task ===== * //
+// * ===== 12 task (math + number) ===== * //
 // Change the 0 so that sum will equal 20.
 const sum = 10 + 10;
 // * ===== 13 task ===== * //

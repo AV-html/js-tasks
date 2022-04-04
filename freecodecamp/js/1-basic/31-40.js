@@ -102,7 +102,7 @@ const wordBlanks = myAdjective + " " + myNoun + " " + myVerb + " " + myAdverb; /
 // Only change code above this line
 
 
-// * ===== 40 task ===== * //
+// * ===== 40 task (array) ===== * //
 
 // Modify the new array myArray so that it contains both a string and a number (in that order).
 // Only change code below this line
