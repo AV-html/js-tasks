@@ -84,9 +84,3 @@ titleCaseOver = 9000;
 
 let catName = "Oliver";
 let catSound = "Meow!";
-
-
-
-
-
-
