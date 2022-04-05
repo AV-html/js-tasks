@@ -132,12 +132,46 @@ processed = processArg(7);
 
 // The nextInLine function should then return the element that was removed.
 
+function nextInLine(arr, item) {
+    // Only change code below this line
+    arr.push(item);
+    let delItem = arr.shift();
+    return delItem;
+    // Only change code above this line
+}
 
+// Setup
+const testArr = [1, 2, 3, 4, 5];
+
+// Display code
+console.log("Before: " + JSON.stringify(testArr));
+console.log(nextInLine(testArr, 6));
+console.log("After: " + JSON.stringify(testArr));
 
 // * ===== 59 task ===== * //
 
+function welcomeToBooleans() {
+    // Only change code below this line
 
+    return true; // Change this line
+
+    // Only change code above this line
+}
 
 // * ===== 60 task ===== * //
+
+
+function trueOrFalse(wasThatTrue) {
+    // Only change code below this line
+    if (wasThatTrue) {
+        return "Yes, that was true";
+    } else {
+        return "No, that was false";
+    }
+
+
+    // Only change code above this line
+}
+
 
 
