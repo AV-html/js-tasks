@@ -114,7 +114,7 @@ const drinkValue = testObj2["the drink"];    // Change this line
 // * ===== 87 task ===== * //
 
 // Setup
-const testObj = {
+const testObj3 = {
     12: "Namath",
     16: "Montana",
     19: "Unitas"
@@ -122,7 +122,7 @@ const testObj = {
 
 // Only change code below this line
 const playerNumber = 16;  // Change this line
-const player = testObj[playerNumber];   // Change this line
+const player = testObj3[playerNumber];   // Change this line
 
 
 // * ===== 88 task ===== * //
