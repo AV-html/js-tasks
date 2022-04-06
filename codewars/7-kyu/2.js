@@ -34,11 +34,6 @@ function rowSumOddNumbers(n) {
 console.log(rowSumOddNumbers(4));
 
 
-// 1 8 27 81
-// 1   2   4   7   11   16   22  29  ...
-
-
-
 
 // function rowSumOddNumbers(n) {
 //     return Math.pow(n, 3);
