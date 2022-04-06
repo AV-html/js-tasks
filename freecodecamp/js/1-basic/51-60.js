@@ -148,7 +148,7 @@ console.log("Before: " + JSON.stringify(testArr));
 console.log(nextInLine(testArr, 6));
 console.log("After: " + JSON.stringify(testArr));
 
-// * ===== 59 task ===== * //
+// * ===== 59 task - if(switch)-boolean ===== * //
 
 function welcomeToBooleans() {
     // Only change code below this line
