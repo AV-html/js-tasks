@@ -71,7 +71,7 @@ const myDog = {
     name: "Foks",
     legs: 4,
     tails: 1,
-    friedns: 100,
+    friends: ['Alex', 'Liza']
 
     // Only change code above this line
 };
@@ -81,29 +81,92 @@ const myDog = {
 // * ===== 85 task ===== * //
 
 
+// Setup
+const testObj = {
+    "hat": "ballcap",
+    "shirt": "jersey",
+    "shoes": "cleats"
+};
+
+// Only change code below this line
+const hatValue = testObj.hat;      // Change this line
+const shirtValue = testObj.shirt;    // Change this line
+
+
 
 
 // * ===== 86 task ===== * //
+
+// Setup
+const testObj2 = {
+    "an entree": "hamburger",
+    "my side": "veggies",
+    "the drink": "water"
+};
+
+// Only change code below this line
+const entreeValue = testObj2["an entree"];   // Change this line
+const drinkValue = testObj2["the drink"];    // Change this line
 
 
 
 
 // * ===== 87 task ===== * //
 
+// Setup
+const testObj = {
+    12: "Namath",
+    16: "Montana",
+    19: "Unitas"
+};
 
+// Only change code below this line
+const playerNumber = 16;  // Change this line
+const player = testObj[playerNumber];   // Change this line
 
 
 // * ===== 88 task ===== * //
 
+// Setup
+const myDog2 = {
+    "name": "Coder",
+    "legs": 4,
+    "tails": 1,
+    "friends": ["freeCodeCamp Campers"]
+};
+
+// Only change code below this line
+
+myDog2.name = "Happy Coder";
 
 
 
 // * ===== 89 task ===== * //
 
+const myDog3 = {
+    "name": "Happy Coder",
+    "legs": 4,
+    "tails": 1,
+    "friends": ["freeCodeCamp Campers"]
+};
 
+myDog3.bark = "woof";
 
 
 // * ===== 90 task ===== * //
+
+// Setup
+const myDogs4 = {
+    "name": "Happy Coder",
+    "legs": 4,
+    "tails": 1,
+    "friends": ["freeCodeCamp Campers"],
+    "bark": "woof"
+};
+
+// Only change code below this line
+delete myDogs4.tails;
+
 
 
 
