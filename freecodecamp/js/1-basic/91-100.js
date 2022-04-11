@@ -163,16 +163,57 @@ updateRecords(recordCollection, 1245, "albumTitle", "Riptide");
 console.log(recordCollection);
 
 
-// * ===== 97 task ===== * //
+// * ===== 97 task (cycles while) ===== * //
+
+// Add the numbers 5 through 0 (inclusive) in descending order to myArray using a while loop.
+// myArray should equal [5, 4, 3, 2, 1, 0].
+
+// Setup
+// const myArray = [];
+
+// let i = 5;
+// while (i >= 0) {
+//     myArray.push(i);
+//     i--;
+// }
+// Only change code below this line
 
 
+// * ===== 98 task (cycles for) ===== * //
 
-// * ===== 98 task ===== * //
+// Setup
+// const myArray = [];
 
-
+// for (let i = 1; i <= 5; i++) {
+//     myArray.push(i)
+// }
+// Only change code below this line
+// myArray should equal [1, 2, 3, 4, 5].
 
 // * ===== 99 task ===== * //
 
+// Setup
+const myArray = [];
+
+for (let i = 1; i <= 9; i += 2) {
+    myArray.push(i)
+
+}
+
+// Only change code below this line
 
 
 // * ===== 100 task ===== * //
+
+// Push the odd numbers from 9 through 1 to myArray using a for loop.
+// myArray should equal[9, 7, 5, 3, 1].
+
+// Setup
+const myArray = [];
+
+for (let i = 9; i >= 1; i -= 2) {
+    myArray.push(i)
+
+}
+
+// Only change code below this line
