@@ -193,12 +193,12 @@ console.log(recordCollection);
 // * ===== 99 task ===== * //
 
 // Setup
-const myArray = [];
+// const myArray = [];
 
-for (let i = 1; i <= 9; i += 2) {
-    myArray.push(i)
+// for (let i = 1; i <= 9; i += 2) {
+//     myArray.push(i)
 
-}
+// }
 
 // Only change code below this line
 
